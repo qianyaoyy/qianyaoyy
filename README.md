@@ -8,6 +8,6 @@
 - 📫 How to reach me: ...qianqian68.yao@gmail.com
 - 📫 Welcome to my website: ...https://qianyaoyy.github.io/
 - 😄 Pronouns: ...happy happy happy fun fun fun
-- ⚡ Fun fact: ...I like studing and studying makes me happy, HAHAHA!
+- ⚡ Fun fact: ...I like studying and studying makes me happy, HAHAHA!
 -->
 -->

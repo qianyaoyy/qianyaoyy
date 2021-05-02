@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning ...machine learning and deep learning with graphs
 - 👯 I’m looking to collaborate on ...new interesting projects in Machine Learning and Deep Learning
 - 📫 How to reach me: ...qianqian68.yao@gmail.com
-- 📫 Welcome to my website: ...https://qianyaoyy.github.io/
 - 😄 Pronouns: ...happy happy happy fun fun fun
 - ⚡ Fun fact: ...I like studying and studying makes me happy, HAHAHA!
 -->

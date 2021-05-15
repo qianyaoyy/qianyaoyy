@@ -9,7 +9,7 @@
 
 
 - 📫 How to reach me: ...qianqian68.yao@gmail.com
-- ⚡ my researches: https://qianyaoyy.github.io
+- ⚡ my webpage: https://qianyaoyy.github.io
 
 
 - 😄 Pronouns: ...happy happy happy fun fun fun

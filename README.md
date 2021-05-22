@@ -7,10 +7,7 @@
 - I’m looking to collaborate on new interesting projects in Machine Learning and Deep Learning
 - keywords: statistical learning, machine learning, deep learning, graph, networks analysis, optimization
 
-
 - 📫 How to reach me: ...qianqian68.yao@gmail.com
-- ⚡ my webpage: https://qianyaoyy.github.io
-
 
 - 😄 Pronouns: ...happy happy happy fun fun fun
 - ⚡ Fun fact: ...I like studying and studying makes me happy, HAHAHA!

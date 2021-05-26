@@ -1,7 +1,7 @@
 👋 keywords: 
---> Machine Learning
---> Deep Learning
---> Statistical Learning
+- Machine Learning
+- Deep Learning
+- Statistical Learning
 -->
 -->
 -->
